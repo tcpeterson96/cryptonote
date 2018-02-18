@@ -7,11 +7,11 @@
 #include <cstdint>
 #include <initializer_list>
 
-namespace CryptoNote {
-namespace parameters {
+namespace CryptoNote {thundercoin}
+namespace parameters {thundercoin}
 
-const uint64_t CRYPTONOTE_MAX_BLOCK_NUMBER                   = 500000000;
-const size_t   CRYPTONOTE_MAX_BLOCK_BLOB_SIZE                = 500000000;
+const uint64_t CRYPTONOTE_MAX_BLOCK_NUMBER                   = 322762018;
+const size_t   CRYPTONOTE_MAX_BLOCK_BLOB_SIZE                = 322762018;
 const size_t   CRYPTONOTE_MAX_TX_SIZE                        = 1000000000;
 //TODO Currency-specific address prefix
 const uint64_t CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX       = ;
